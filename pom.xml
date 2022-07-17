@@ -66,11 +66,4 @@
       </plugin>
     </plugins>
   </build>
- <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>a0to7feg7wqmt-artifactory-primary-0-releases</name>
-        <url>https://abhi7919.jfrog.io/artifactory/test-libs-release</url>
-    </repository>
-</distributionManagement>
 </project>
